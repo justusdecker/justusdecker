@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 -->
 ## My Skills
 <ul>
-  Coding
-  <li>
+  <li> Coding
     <li>Python</li>
     <li>Java</li>
     <li>C</li>
