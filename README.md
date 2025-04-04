@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#My Skills:
+##My Skills:
 <ul>
   <li>Python</li>
   <li>Java</li>
