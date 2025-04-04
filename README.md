@@ -1,4 +1,7 @@
-## Hi there 👋
+# That's me
+
+
+## My Projects
 
 <!--
 **justusdecker/justusdecker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,11 +17,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# My Skills:
+## My Skills
 <ul>
-  <li>Python</li>
-  <li>Java</li>
-  <li>C</li>
-  <li>Web Development:</li>
-  <li>Python</li>
+  <li>
+    Coding
+    <li>Python</li>
+    <li>Java</li>
+    <li>C</li>
+    <li>Web Development:</li>
+    <li>Python</li>
+  </li>
+  
 </ul>
