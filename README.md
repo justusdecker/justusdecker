@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<ol>
+<ul>
   <li>Python</li>
-</ol>
+  <li>Java</li>
+  <li>C</li>
+  <li>Web Development:</li>
+  <li>Python</li>
+</ul>
