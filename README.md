@@ -19,13 +19,19 @@ Here are some ideas to get you started:
 -->
 ## My Skills
 <ul>
-  <li> Coding
+  <li> Languages
     <ul>
       <li>Python</li>
       <li>Java</li>
       <li>C</li>
-      <li>Web Development:</li>
-      <li>Python</li>
+      <li>Web Development
+        <ul>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+        </ul>
+      </li>
+      
     </ul>
   </li>
   
