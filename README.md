@@ -20,11 +20,13 @@ Here are some ideas to get you started:
 ## My Skills
 <ul>
   <li> Coding
-    <li>Python</li>
-    <li>Java</li>
-    <li>C</li>
-    <li>Web Development:</li>
-    <li>Python</li>
+    <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>C</li>
+      <li>Web Development:</li>
+      <li>Python</li>
+    </ul>
   </li>
   
 </ul>
