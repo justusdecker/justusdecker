@@ -31,8 +31,7 @@ Here are some ideas to get you started:
           <li>JavaScript</li>
         </ul>
       </li>
-      
-    </ul>
+
   </li>
   
 </ul>
