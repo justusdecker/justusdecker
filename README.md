@@ -8,7 +8,7 @@ Check out my website for more information: https://justusdecker.de/thats-me/
         <img src="https://github-readme-stats.vercel.app/api?username=justusdecker&show_icons=true&theme=gotham">
     </td>
     <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
+        <img style="max-height:10%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
     </td>
 </table>
 </p>
