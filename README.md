@@ -12,7 +12,7 @@ Check out my website for more information: https://justusdecker.de/thats-me/
 </p>
 <br clear="right"/>
 
-- Python
+- Python[r]
 - Java
 - Lua
 - Batch / CMD
