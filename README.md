@@ -11,6 +11,7 @@ Check out my website for more information: https://justusdecker.de/thats-me/
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
 </p>
 <br clear="right"/>
+
 - Python
 - Java
 - Lua
