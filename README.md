@@ -13,5 +13,5 @@ I love playing & creating video games.
 ## Knowledge
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07">
+<img width="75%" src="https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07">
 </p>
