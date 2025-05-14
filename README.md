@@ -10,4 +10,4 @@ Check out my website for more information: https://justusdecker.de/thats-me/
 Hi, my name is justus and i’m 25 years old. 
 I'm a python programmer, artist & musician.
 I love playing & creating video games.
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=pygame-engine&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=pygame-engine&theme=gotham">
