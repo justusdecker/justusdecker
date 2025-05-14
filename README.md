@@ -1,6 +1,6 @@
 # Hi, I'm Justus Decker
 
-Hi, my name is justus and i’m 25 years old. 
+I’m 25 years old. 
 I'm a python programmer, artist & musician.
 I love playing & creating video games.
 
