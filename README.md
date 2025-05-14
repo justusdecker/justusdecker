@@ -9,7 +9,3 @@ I love playing & creating video games.
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=justusdecker&show_icons=true&theme=gotham">
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
-
-## My current project
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=pygame-engine&theme=gotham">
