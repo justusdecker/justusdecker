@@ -4,6 +4,11 @@ I’m 25 years old.
 I'm a python programmer, artist & musician.
 I love playing & creating video games.
 
+## Knowledge
+
+![my_tech_stack](https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07)
+
+
 ## Stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=justusdecker&show_icons=true&theme=gotham">
