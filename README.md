@@ -7,7 +7,7 @@ I love playing & creating video games.
 ## Knowledge
 
 ![my_tech_stack](https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07)
-
+<img align="center" width="25%" src="https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07">
 
 ## Stats
 
