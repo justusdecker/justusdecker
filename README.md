@@ -4,7 +4,7 @@ Check out my website for more information: https://justusdecker.de/thats-me/
 # Stats
 
 
-<p align="center" width="100%">
+<p align="right" width="100%">
    <img src="https://github-readme-stats.vercel.app/api?username=justusdecker&show_icons=true&theme=gotham">
 </p>
 <p align="right" width="100%">
@@ -21,7 +21,7 @@ Check out my website for more information: https://justusdecker.de/thats-me/
 - CSS
 - JS
 - 
-<br clear="left"/>
+<br clear="right"/>
 
 # Contact me
 
