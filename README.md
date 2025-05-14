@@ -10,8 +10,6 @@ Check out my website for more information: https://justusdecker.de/thats-me/
 <p align="right" width="100%">
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
 </p>
-<br clear="left"/>
-# Knowledge
 
 - Python
 - Java
@@ -23,7 +21,7 @@ Check out my website for more information: https://justusdecker.de/thats-me/
 - CSS
 - JS
 - 
-
+<br clear="left"/>
 
 # Contact me
 
