@@ -6,9 +6,14 @@
 </p>
 
 <h4 align="center">Stats</h4>
-
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=justusdecker&show_icons=true&theme=gotham">
+</p>
 
+<p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
+</p>
+
+
 
 
