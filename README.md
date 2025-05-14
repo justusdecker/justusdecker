@@ -7,9 +7,9 @@ Check out my website for more information: https://justusdecker.de/thats-me/
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=justusdecker&show_icons=true&theme=gotham">
 
-<p align="right" width="100%">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
-</p>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
+
 <br clear="right"/>
 
 - Python
