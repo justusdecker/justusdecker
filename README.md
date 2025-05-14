@@ -10,8 +10,6 @@ Check out my website for more information: https://justusdecker.de/thats-me/
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
 
-<br clear="right"/>
-
 - Python
 - Java
 - Lua
