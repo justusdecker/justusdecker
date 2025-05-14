@@ -5,10 +5,9 @@ I'm a python programmer, artist & musician.
 I love playing & creating video games.
 
 ## Knowledge
-
-![my_tech_stack](https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07)
-<img align="center" width="25%" src="https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07">
-
+<p align="center">
+<img  width="50%" src="https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07">
+</p>
 ## Stats
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=justusdecker&show_icons=true&theme=gotham">
