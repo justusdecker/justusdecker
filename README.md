@@ -2,8 +2,10 @@
 
 <p align="center">I’m Justus, 25 years old, a tech enthusiast and python game developer, artist & musician.</h3>
 <h4 align="center">My current project</h4>
-<img width="60%" src="https://github.com/user-attachments/assets/fc5f364c-9c77-40bb-b016-82e7d0c51104">
 
+<p align="center">
+<img width="60%" src="https://github.com/user-attachments/assets/fc5f364c-9c77-40bb-b016-82e7d0c51104">
+</p>
 <h4 align="center">Knowledge</h4>
 <p align="center">
 <img width="60%" src="https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07">
