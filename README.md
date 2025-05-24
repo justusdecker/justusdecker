@@ -5,7 +5,7 @@
 <h4 align="center">My current project</h4>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=pygame-engine">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=pygame-engine&theme=gotham">
 </p>
 
 
