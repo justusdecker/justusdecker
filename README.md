@@ -21,6 +21,11 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=justusdecker&show_icons=true&theme=gotham">
 </p>
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=justus_decker&theme=gotham">
+  
+  </p>
 </details>
 
 
