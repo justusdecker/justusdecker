@@ -1,18 +1,19 @@
 <h3 align="center">Hi there 👋</h3>
 
 <p align="center">I’m Justus, 25 years old, student at Masterschool, a tech enthusiast and python game developer, artist & musician.</h3>
-<details align="center">
+
 <h4 align="center">My current project</h4>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=pygame-engine&theme=gotham">
 </p>
-</details>
-
-<h4 align="center">Knowledge</h4>
+<details align="center">
+<summary>Knowledge</summary>
 <p align="center">
 <img width="60%" src="https://github.com/user-attachments/assets/a62866e9-aa76-4c02-9f42-b246525c9a07">
 </p>
+</details>
+
 <details align="center">
   <summary>Langs & Stats</summary>
   <p align="center">
