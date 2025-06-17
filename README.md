@@ -2,6 +2,9 @@
 
 <p align="center">I’m Justus, 25 years old, student at Masterschool, a tech enthusiast and python game developer, artist & musician.</h3>
 
+<p align="center">
+<img src="https://wakatime.com/badge/user/e971c7f6-586b-4713-b710-561bca159241.svg">
+</p>
 <h4 align="center">My current project</h4>
 
 <p align="center">
