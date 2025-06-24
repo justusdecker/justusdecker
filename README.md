@@ -15,7 +15,7 @@
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham">
   <p align=right>
   I'm currently working on an automation Tool for Let's players.<br>
-  A <b>MASSIVE</b> Project which consumes most of my time.<br><br><br><br>
+  A <b>MASSIVE</b> Project which consumes most of my time.<br><br><br><br><br>
   </p>
 
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
@@ -23,12 +23,12 @@
   I use mostly python to work on my projects:<br>
   Building apps to automate tasks or game development<br>
   Sometimes python is to slow for a specific task so i write idk<br>
-  This text will be removed is it here because i check the alignments!!<br><br><br><br><br><br><br>
+  This text will be removed is it here because i check the alignments!!<br><br><br><br><br><br><br><br>
   </p>
 
+<img align=right src="my_techstack.svg">
   
-  
-  <div align=left>
+<div align=left>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white">
@@ -72,12 +72,6 @@
 <br>
 <img src="https://img.shields.io/badge/java-ECDC5A?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/codio-4574E0?style=for-the-badge&logo=codio&logoColor=white">
-</div>
-
-  <img align=right src="my_techstack.svg">
-
-  
-  <h4>My current project</h4>
 </div>
 
 
