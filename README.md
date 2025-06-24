@@ -1,3 +1,5 @@
+
+
 <link rel="stylesheet" href="styles.css">
 <div align="center">
   <h3>Hi there 👋</h3>
@@ -12,9 +14,7 @@
 
 
 <div align=center>
-<h1 id="taste-the-rainbow">
-My Techstack
-</h1>
+<img src="my_techstack.svg">
 selenium
 figma
 java
