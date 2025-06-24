@@ -20,6 +20,7 @@
 
 <div align=center>
 <img align=center src="my_techstack.svg">
+<br><br>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white">
