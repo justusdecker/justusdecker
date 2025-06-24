@@ -2,8 +2,8 @@
 
 <link rel="stylesheet" href="styles.css">
 <div align="center">
-  <h3>Hi there 👋</h3>
-  I’m Justus, 25 years old, student at Masterschool, a tech enthusiast and python game developer, artist & musician.<br><br>
+  <img src="hi_there.svg">
+  <p style="font-size:150%">I’m Justus, 25 years old, student at Masterschool, a tech enthusiast and python game developer, artist & musician.</p><br><br>
   
   <img src="https://img.shields.io/badge/Coding-721412?style=for-the-badge&logo=undertale&logoColor=white">
   <img src="https://img.shields.io/badge/Art-F78C40?style=for-the-badge&logo=undertale&logoColor=white">
