@@ -14,7 +14,7 @@
   <br>
   <table style="border: none;">
     <tr style="border: none;">
-    <td style="border: none;"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham"></td>
+    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham"></td>
     <td style="border: none;"><p align=right>
   I'm currently working on an automation Tool for Let's players.<br>
   A <b>MASSIVE</b> Project which consumes most of my time.<br><br><br>
