@@ -6,10 +6,12 @@
 			font-family: monospace;
 			font-size: 3em;
 			animation: color-change 5s infinite;
+			-webkit-animation: color-change 5s infinite;
+			border-right: 0px solid; /* Workaround for no animation */
 		  }
-  
+		
 		@keyframes color-change{
-		0% { color: red; }
+		0% { color: rgb(255,0,0); }
 		14% { color: orange; }
 		28% { color: yellow; }
 		42% { color: green; }
@@ -18,8 +20,12 @@
 		84% { color: purple; }
 		100% { color: red; }
 		}
+
       </style>
+
       <h1 class="taste-the-rainbow">My Techstack</h1>
+
+      
   </div>
  </foreignObject>
 </svg>
