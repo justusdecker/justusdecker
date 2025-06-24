@@ -7,9 +7,10 @@
   
   <img src="https://img.shields.io/badge/Coding-721412?style=for-the-badge&logo=undertale&logoColor=white">
   <img src="https://img.shields.io/badge/Art-F78C40?style=for-the-badge&logo=undertale&logoColor=white">
-   <img src="https://img.shields.io/badge/Music-1F6B75?style=for-the-badge&logo=undertale&logoColor=white">
-  
+  <img src="https://img.shields.io/badge/Music-1F6B75?style=for-the-badge&logo=undertale&logoColor=white">
+  <br>
   <img src="https://wakatime.com/badge/user/e971c7f6-586b-4713-b710-561bca159241.svg">
+  <img src="https://komarev.com/ghpvc/?username=justusdecker">
   <h4>My current project</h4>
   <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham">
   
@@ -76,7 +77,7 @@
 </div>
 
 Connect with me
-<img src="https://komarev.com/ghpvc/?username=justusdecker&style=for-the-badge">
+
 
 
 
