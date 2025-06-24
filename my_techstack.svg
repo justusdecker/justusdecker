@@ -1,0 +1,25 @@
+<svg fill="none" width="100%"  xmlns="http://www.w3.org/2000/svg">
+ <foreignObject width="100%" height="100%">
+  <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .taste-the-rainbow {
+			font-family: monospace;
+			font-size: 3em;
+			animation: color-change 5s infinite;
+		  }
+  
+		@keyframes color-change{
+		0% { color: red; }
+		14% { color: orange; }
+		28% { color: yellow; }
+		42% { color: green; }
+		56% { color: lightblue; }
+		70% { color: blue; }
+		84% { color: purple; }
+		100% { color: red; }
+		}
+      </style>
+      <h1 class="taste-the-rainbow">My Techstack</h1>
+  </div>
+ </foreignObject>
+</svg>
