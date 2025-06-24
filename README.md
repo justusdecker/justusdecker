@@ -74,17 +74,13 @@
 <img src="https://img.shields.io/badge/codio-4574E0?style=for-the-badge&logo=codio&logoColor=white">
 </div>
 
+TODO:
 
 Connect with me
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=justusdecker&theme=gotham&short_numbers=true" alt="GitHub Streak" />
 
-
-
-
-
-
-
-
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=justus_decker&theme=gotham">
 
 
 
