@@ -11,25 +11,24 @@
   <br><br>
   <img src="https://wakatime.com/badge/user/e971c7f6-586b-4713-b710-561bca159241.svg">
   <img src="https://komarev.com/ghpvc/?username=justusdecker">
-  <br>
-  <table style="border: none;">
-    <tr style="border: none;">
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham"></td>
-    <td style="border: none;"><p align=right>
+  <br><br>
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham">
+  <p align=right>
   I'm currently working on an automation Tool for Let's players.<br>
-  A <b>MASSIVE</b> Project which consumes most of my time.<br><br><br>
-  </p></td>
-    </tr>
-    <tr style="border: none;">
-    <td style="border: none;"><p>
+  A <b>MASSIVE</b> Project which consumes most of my time.<br><br><br><br>
+  </p>
+
+  <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
+  <p align=left>
   I use mostly python to work on my projects:<br>
   Building apps to automate tasks or game development<br>
   Sometimes python is to slow for a specific task so i write idk<br>
-  This text will be removed is it here because i check the alignments!!<br><br><br><br><br><br>
-  </p></td>
-    <td style="border: none;"><img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact"></td>
-    </tr>
-    <td style="border: none;"><div align=left>
+  This text will be removed is it here because i check the alignments!!<br><br><br><br><br><br><br>
+  </p>
+
+  
+  
+  <div align=left>
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Numba-00A3E0?style=for-the-badge&logo=Numba&logoColor=white">
@@ -74,10 +73,9 @@
 <img src="https://img.shields.io/badge/java-ECDC5A?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/codio-4574E0?style=for-the-badge&logo=codio&logoColor=white">
 </div>
-</td>
-    <td style="border: none;"><img align=right src="my_techstack.svg"></td>
-    </tr>
-  </table>
+
+  <img align=right src="my_techstack.svg">
+
   
   <h4>My current project</h4>
 </div>
