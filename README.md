@@ -9,17 +9,6 @@
   <img src="https://img.shields.io/badge/Music-1F6B75?style=for-the-badge&logo=undertale&logoColor=white">
   <br><br>
   <p style="font-size:150%">I’m Justus, 25 years old, student at Masterschool, a tech enthusiast and python game developer, artist & musician.</p>
-  <h3>Contact</h3>
-  <a href="https://www.linkedin.com/in/justus-decker/"><img src="https://img.shields.io/badge/LinkedIn-009CFB?logo=youtube&logoColor=white"></a>
-
-  <h3>My Stuff</h3>
-
-  <a href="https://justusdecker.de/"><img src="https://img.shields.io/badge/My website-264E70"></a><br>
-  <a href="https://www.youtube.com/@team-space"><img src="https://img.shields.io/badge/Music-TeamSpaceStudio-FF0000?logo=youtube&logoColor=white"></a><br>
-  <a href="https://www.youtube.com/@justusgamingstuff5016"><img src="https://img.shields.io/badge/Gaming-JustusGamingStuff(German)-FF0000?logo=youtube&logoColor=white"></a>
-  <br>
-  
-  
   <br>
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham">
   <p align=right>
