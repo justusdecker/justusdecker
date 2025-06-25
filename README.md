@@ -3,15 +3,24 @@
 <link rel="stylesheet" href="styles.css">
 <div align="center">
   <img src="hi_there.svg">
-  <p style="font-size:150%">I’m Justus, 25 years old, student at Masterschool, a tech enthusiast and python game developer, artist & musician.</p><br><br>
-  
+  <br><br>
   <img src="https://img.shields.io/badge/Coding-721412?style=for-the-badge&logo=undertale&logoColor=white">
   <img src="https://img.shields.io/badge/Art-F78C40?style=for-the-badge&logo=undertale&logoColor=white">
   <img src="https://img.shields.io/badge/Music-1F6B75?style=for-the-badge&logo=undertale&logoColor=white">
   <br><br>
-  <img src="https://wakatime.com/badge/user/e971c7f6-586b-4713-b710-561bca159241.svg">
-  <img src="https://komarev.com/ghpvc/?username=justusdecker">
-  <br><br>
+  <p style="font-size:150%">I’m Justus, 25 years old, student at Masterschool, a tech enthusiast and python game developer, artist & musician.</p>
+  <h3>Contact</h3>
+  <a href="https://www.linkedin.com/in/justus-decker/"><img src="https://img.shields.io/badge/LinkedIn-009CFB?logo=youtube&logoColor=white"></a>
+
+  <h3>My Stuff</h3>
+
+  <a href="https://justusdecker.de/"><img src="https://img.shields.io/badge/My website-264E70"></a><br>
+  <a href="https://www.youtube.com/@team-space"><img src="https://img.shields.io/badge/Music-TeamSpaceStudio-FF0000?logo=youtube&logoColor=white"></a><br>
+  <a href="https://www.youtube.com/@justusgamingstuff5016"><img src="https://img.shields.io/badge/Gaming-JustusGamingStuff(German)-FF0000?logo=youtube&logoColor=white"></a>
+  <br>
+  
+  
+  <br>
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham">
   <p align=right>
   I'm currently working on an automation Tool for Let's players.<br>
@@ -20,10 +29,10 @@
 
   <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=justusdecker&langs_count=15&theme=gotham&layout=compact">
   <p align=left>
-  I use mostly python to work on my projects:<br>
-  Building apps to automate tasks or game development<br>
-  Sometimes python is to slow for a specific task so i write idk<br>
-  This text will be removed is it here because i check the alignments!!<br><br><br><br><br><br><br><br>
+  I mostly python use to work on my projects:<br>
+  Building apps to automate tasks, game development.<br>
+  <br>
+  <br><br><br><br><br><br><br><br>
   </p>
 
 <img align=right src="my_techstack.svg">
@@ -73,10 +82,12 @@
 <img src="https://img.shields.io/badge/java-ECDC5A?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/codio-4574E0?style=for-the-badge&logo=codio&logoColor=white">
 </div>
+<br><br>
 
-TODO:
+<h3>My Stats</h3>
 
-Connect with me
+<img src="https://wakatime.com/badge/user/e971c7f6-586b-4713-b710-561bca159241.svg">
+  <img src="https://komarev.com/ghpvc/?username=justusdecker">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=justusdecker&theme=gotham&short_numbers=true" alt="GitHub Streak" />
 
