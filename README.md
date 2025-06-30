@@ -1,6 +1,4 @@
 
-
-<link rel="stylesheet" href="styles.css">
 <div align="center">
   <img src="hi_there.svg">
   <br><br>
@@ -8,7 +6,8 @@
   <img src="https://img.shields.io/badge/Art-F78C40?style=for-the-badge&logo=undertale&logoColor=white">
   <img src="https://img.shields.io/badge/Music-1F6B75?style=for-the-badge&logo=undertale&logoColor=white">
   <br><br>
-  <p style="font-size:150%">I’m Justus, 25 years old, student at Masterschool, a tech enthusiast and python game developer, artist & musician.</p>
+  <p>I’m Justus, 25 years old, Backend developer student at Masterschool, a tech enthusiast and python game developer, artist & musician.</p>
+
   <br>
   <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham">
   <p align=right>
@@ -20,6 +19,7 @@
   <p align=left>
   I mostly python use to work on my projects:<br>
   Building apps to automate tasks, game development.<br>
+  
   <br>
   <br><br><br><br><br><br><br><br>
   </p>
@@ -81,4 +81,87 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=justus_decker&theme=gotham">
 
 
+<h2>Masterschool Codio Assignments<h2>
 
+<a href="https://github.com/justusdecker?tab=repositories&q=codio">
+<img src="https://img.shields.io/badge/Average-67-e04a45?logo=codio&logoColor=white">
+</a>
+<a href="https://github.com/justusdecker?tab=repositories&q=codio">
+<img src="https://img.shields.io/badge/Assignments- 20 / 25-e04a45?logo=codio&logoColor=white">
+</a>
+
+<a href="https://github.com/justusdecker/codio-calculator">
+<img src="https://img.shields.io/badge/Calculator-83-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-prime-minister">
+<img src="https://img.shields.io/badge/Prime Minister-100-4574E0">
+</a>
+<a href="https://github.com/justusdecker/codio-summer_time">
+<img src="https://img.shields.io/badge/Summer Time-100-4574E0">
+</a>
+<a href="https://github.com/justusdecker/codio-romeo-and-juliet">
+<img src="https://img.shields.io/badge/Romeo and Juliet-100-4574E0">
+</a>
+<a href="/">
+<img src="https://img.shields.io/badge/Movie Project Part 1-100-4574E0">
+</a>
+<a href="https://github.com/justusdecker/codio-refactoring-basics">
+<img src="https://img.shields.io/badge/Refactoring Basics-83-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-help-your-teacher2">
+<img src="https://img.shields.io/badge/Help your Teacher-87-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-titanic">
+<img src="https://img.shields.io/badge/Titanic-100-4574E0">
+</a>
+<a href="https://github.com/justusdecker/codio-movie-project-1">
+<img src="https://img.shields.io/badge/Movie Project Phase 2-27-e04a45">
+</a>
+<a href="/">
+<img src="https://img.shields.io/badge/API Extravaganza-100-4574E0">
+</a>
+<a href="https://github.com/justusdecker/codio-home-solutions">
+<img src="https://img.shields.io/badge/Home Solutions-83-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-zootopia">
+<img src="https://img.shields.io/badge/Zootopia with Github-90-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-qr-card-wizard">
+<img src="https://img.shields.io/badge/QR Card Wizard-100-4574E0">
+</a>
+<a href="https://github.com/justusdecker/codio-melting-snowman">
+<img src="https://img.shields.io/badge/Melting Snowman-100-4574E0">
+</a>
+<a href="https://github.com/justusdecker/codio-Branching-Out">
+<img src="https://img.shields.io/badge/Branching Out-82-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-zootopia-api-gh">
+<img src="https://img.shields.io/badge/Zootopia with API and Github-90-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-best-buy">
+<img src="https://img.shields.io/badge/Best Buy-87-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-best-buy-2">
+<img src="https://img.shields.io/badge/Best Buy 2.0-72-e0af45">
+</a>
+<a href="/">
+<img src="https://img.shields.io/badge/Movie Project with SQL + HTML + API-n.a.-e04a45">
+</a>
+<a href="https://github.com/justusdecker/codio-masterblog">
+<img src="https://img.shields.io/badge/Masterblog-n.a.-e04a45">
+</a>
+<a href="/">
+<img src="https://img.shields.io/badge/Masterblog API-n.a.-e04a45">
+</a>
+<a href="/">
+<img src="https://img.shields.io/badge/Sky SQL 1-83-ace045">
+</a>
+<a href="https://github.com/justusdecker/codio-sky-sql2">
+<img src="https://img.shields.io/badge/Sky SQL 2-57-e04a45">
+</a>
+<a href="/">
+<img src="https://img.shields.io/badge/Book Alchemy-n.a.-e04a45">
+</a>
+<a href="/">
+<img src="https://img.shields.io/badge/Movie Project with Flask + SqlAlchemy-n.a.-e04a45">
+</a>
