@@ -102,7 +102,7 @@
 <a href="https://github.com/justusdecker/codio-romeo-and-juliet">
 <img src="https://img.shields.io/badge/Romeo and Juliet-100-4574E0">
 </a>
-<a href="/">
+<a href="https://github.com/justusdecker/codio-movie-project-1">
 <img src="https://img.shields.io/badge/Movie Project Part 1-100-4574E0">
 </a>
 <a href="https://github.com/justusdecker/codio-refactoring-basics">
