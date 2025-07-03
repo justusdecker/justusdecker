@@ -84,7 +84,7 @@
 <h2>Masterschool Codio Assignments<h2>
 
 <a href="https://github.com/justusdecker?tab=repositories&q=codio">
-<img src="https://img.shields.io/badge/Average-67-e04a45?logo=codio&logoColor=white">
+<img src="https://img.shields.io/badge/Average-72-e04a45?logo=codio&logoColor=white">
 </a>
 <a href="https://github.com/justusdecker?tab=repositories&q=codio">
 <img src="https://img.shields.io/badge/Assignments- 20 / 25-e04a45?logo=codio&logoColor=white">
