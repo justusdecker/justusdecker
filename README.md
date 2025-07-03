@@ -148,7 +148,7 @@
 <img src="https://img.shields.io/badge/Movie Project with SQL + HTML + API-n.a.-e04a45">
 </a>
 <a href="https://github.com/justusdecker/codio-masterblog">
-<img src="https://img.shields.io/badge/Masterblog-n.a.-e04a45">
+<img src="https://img.shields.io/badge/Masterblog-85-ace045">
 </a>
 <a href="/">
 <img src="https://img.shields.io/badge/Masterblog API-n.a.-e04a45">
