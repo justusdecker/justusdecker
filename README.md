@@ -115,7 +115,7 @@
 <img src="https://img.shields.io/badge/Titanic-100-4574E0">
 </a>
 <a href="https://github.com/justusdecker/codio-movie-project-1">
-<img src="https://img.shields.io/badge/Movie Project Phase 2-27-e04a45">
+<img src="https://img.shields.io/badge/Movie Project Phase 2-87-ace045">
 </a>
 <a href="/">
 <img src="https://img.shields.io/badge/API Extravaganza-100-4574E0">
