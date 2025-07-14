@@ -84,14 +84,14 @@
 <h2>Masterschool Codio Assignments<h2>
 
 <a href="https://github.com/justusdecker?tab=repositories&q=codio">
-<img src="https://img.shields.io/badge/Average-72-e04a45?logo=codio&logoColor=white">
+<img src="https://img.shields.io/badge/Average-89-ace045?logo=codio&logoColor=white">
 </a>
 <a href="https://github.com/justusdecker?tab=repositories&q=codio">
-<img src="https://img.shields.io/badge/Assignments- 20 / 25-e04a45?logo=codio&logoColor=white">
+<img src="https://img.shields.io/badge/Assignments- 24 / 25-e04a45?logo=codio&logoColor=white">
 </a>
 
 <a href="https://github.com/justusdecker/codio-calculator">
-<img src="https://img.shields.io/badge/Calculator-83-ace045">
+<img src="https://img.shields.io/badge/Calculator-100-4574E0">
 </a>
 <a href="https://github.com/justusdecker/codio-prime-minister">
 <img src="https://img.shields.io/badge/Prime Minister-100-4574E0">
@@ -106,16 +106,16 @@
 <img src="https://img.shields.io/badge/Movie Project Part 1-100-4574E0">
 </a>
 <a href="https://github.com/justusdecker/codio-refactoring-basics">
-<img src="https://img.shields.io/badge/Refactoring Basics-83-ace045">
+<img src="https://img.shields.io/badge/Refactoring Basics-100-4574E0">
 </a>
 <a href="https://github.com/justusdecker/codio-help-your-teacher2">
-<img src="https://img.shields.io/badge/Help your Teacher-87-ace045">
+<img src="https://img.shields.io/badge/Help your Teacher-100-4574E0">
 </a>
 <a href="https://github.com/justusdecker/codio-titanic">
 <img src="https://img.shields.io/badge/Titanic-100-4574E0">
 </a>
 <a href="https://github.com/justusdecker/codio-movie-project-1">
-<img src="https://img.shields.io/badge/Movie Project Phase 2-87-ace045">
+<img src="https://img.shields.io/badge/Movie Project Phase 2-100-4574E0">
 </a>
 <a href="/">
 <img src="https://img.shields.io/badge/API Extravaganza-100-4574E0">
@@ -145,22 +145,22 @@
 <img src="https://img.shields.io/badge/Best Buy 2.0-72-e0af45">
 </a>
 <a href="/">
-<img src="https://img.shields.io/badge/Movie Project with SQL + HTML + API-n.a.-e04a45">
+<img src="https://img.shields.io/badge/Movie Project with SQL + HTML + API-87-ace045">
 </a>
 <a href="https://github.com/justusdecker/codio-masterblog">
 <img src="https://img.shields.io/badge/Masterblog-85-ace045">
 </a>
 <a href="/">
-<img src="https://img.shields.io/badge/Masterblog API-n.a.-e04a45">
+<img src="https://img.shields.io/badge/Masterblog API-75-e0af45">
 </a>
 <a href="/">
 <img src="https://img.shields.io/badge/Sky SQL 1-83-ace045">
 </a>
 <a href="https://github.com/justusdecker/codio-sky-sql2">
-<img src="https://img.shields.io/badge/Sky SQL 2-57-e04a45">
+<img src="https://img.shields.io/badge/Sky SQL 2-100-4574E0">
 </a>
 <a href="/">
-<img src="https://img.shields.io/badge/Book Alchemy-n.a.-e04a45">
+<img src="https://img.shields.io/badge/Book Alchemy-85-ace045">
 </a>
 <a href="/">
 <img src="https://img.shields.io/badge/Movie Project with Flask + SqlAlchemy-n.a.-e04a45">
