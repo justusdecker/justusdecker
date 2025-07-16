@@ -9,7 +9,7 @@
   <p>I’m Justus, 25 years old, Backend developer student at Masterschool, a tech enthusiast and python game developer, artist & musician.</p>
 
   <br>
-  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=JRI&theme=gotham">
+  <img align=left src="https://github-readme-stats.vercel.app/api/pin/?username=justusdecker&repo=Lets-play-recording-tool&theme=gotham">
   <p align=right>
   I'm currently working on an automation Tool for Let's players.<br>
   A <b>MASSIVE</b> Project which consumes most of my time.<br><br><br><br><br>
