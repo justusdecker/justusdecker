@@ -75,7 +75,6 @@
 
 <h3>My Stats</h3>
 
-<img src="https://wakatime.com/badge/user/e971c7f6-586b-4713-b710-561bca159241.svg">
 <img src="https://komarev.com/ghpvc/?username=justusdecker">
 <br><br>
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=justus_decker&theme=gotham">
