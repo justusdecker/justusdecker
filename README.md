@@ -77,7 +77,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=justusdecker">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=justus_decker&theme=gotham">
+<a href="https://wakatime.com/@e971c7f6-586b-4713-b710-561bca159241"><img src="https://wakatime.com/badge/user/e971c7f6-586b-4713-b710-561bca159241.svg" alt="Total time coded since May 25 2025" /></a>
 
 
 <h2>Masterschool Codio Assignments<h2>
