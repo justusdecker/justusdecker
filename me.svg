@@ -148,8 +148,13 @@
           font-weight: 700;
         }
 
+        i {
+          position: relative;
+          color: #fff;
+        }
+
         /* Subtile Unterstreichung für die fettgedruckten Begriffe */
-        b::after {
+        b::after, i::after {
           content: "";
           position: absolute;
           bottom: 1px;
@@ -181,7 +186,7 @@
 
           <div class="text-block block2">
             Mit nunmehr <b>4000 Stunden Programmierzeit</b> auf dem Buckel und <b>mehreren hundert handwerklichen Projekten</b>,
-            gehe ich jede Herausforderung Lösungsorientiert und Zielstrebig an. Seien es ein abgebrochenes Stuhlbein flicken, 
+            gehe ich jede Herausforderung <i>lösungsorientiert</i> und <i>zielstrebig</i> an. Seien es ein abgebrochenes Stuhlbein flicken, 
             ein Fehler in einem Programm zu fixen, Räume von Grund auf aus dem Boden zu stampfen oder defekte Computer zu reparieren.
             All dies und mehr finden Sie in meinem <b>Portfolio - unten verlinkt</b>.
           </div>
